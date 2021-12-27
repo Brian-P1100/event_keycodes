@@ -4,3 +4,4 @@ This project is a simple keycode generator that takes the eventListener keydown 
 
 I used a ternary function on one of the eventListeners and template literals.
 
+# https://stupefied-meitner-3dd6b1.netlify.app
